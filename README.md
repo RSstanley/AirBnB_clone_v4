@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Clement Mphethi - [Github](https://github.com/HoOdpHarMxcisT) 
+
 Stanley Ratshili - [Github](https://github.com/RSstanley)  
 
 Second part of Airbnb: Joann Vuong
